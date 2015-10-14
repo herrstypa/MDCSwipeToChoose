@@ -29,7 +29,7 @@
 #import "UIColor+MDCRGB8Bit.h"
 #import <QuartzCore/QuartzCore.h>
 
-static CGFloat const MDCSwipeToChooseViewHorizontalPadding = 10.f;
+static CGFloat const MDCSwipeToChooseViewHorizontalPadding = 0.f;
 static CGFloat const MDCSwipeToChooseViewTopPadding = 20.f;
 static CGFloat const MDCSwipeToChooseViewImageTopPadding = 20.f;
 static CGFloat const MDCSwipeToChooseViewLabelWidth = 65.f;
