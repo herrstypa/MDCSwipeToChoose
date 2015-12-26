@@ -30,8 +30,8 @@
 #import <QuartzCore/QuartzCore.h>
 
 static CGFloat const MDCSwipeToChooseViewHorizontalPadding = -20.f;
-static CGFloat const MDCSwipeToChooseViewTopPadding = 0.f;
-static CGFloat const MDCSwipeToChooseViewImageTopPadding = 30.f;
+static CGFloat const MDCSwipeToChooseViewTopPadding = 20.f;
+static CGFloat const MDCSwipeToChooseViewImageTopPadding = 10.f;
 static CGFloat const MDCSwipeToChooseViewLabelWidth = 120.f;
 
 @interface MDCSwipeToChooseView ()
