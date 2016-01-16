@@ -31,7 +31,7 @@
 
 static CGFloat const MDCSwipeToChooseViewHorizontalPadding = -28.f;
 static CGFloat const MDCSwipeToChooseViewTopPadding = 20.f;
-static CGFloat const MDCSwipeToChooseViewImageTopPadding = 30.f;
+static CGFloat const MDCSwipeToChooseViewImageTopPadding = 40.f;
 static CGFloat const MDCSwipeToChooseViewLabelWidth = 120.f;
 
 @interface MDCSwipeToChooseView ()
